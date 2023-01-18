@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Button
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b5f09bc1eba344e409195431f8117646, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5f077f702597afb439b705a0fb7979ff, type: 3}
+  - {fileID: 21300000, guid: 57f5e3a02342df443b14778b8605fe3d, type: 3}
+  - {fileID: 21300000, guid: 83d7bf21f265ed948baf66e4410cb1c2, type: 3}
+  - {fileID: 21300000, guid: d31e1971c63d06842a6aa7e4a50cc433, type: 3}
+  - {fileID: 21300000, guid: 2ebe4c81447f2624987b66764a084bfe, type: 3}
+  - {fileID: 21300000, guid: 8b12f50351acfbb4abec6201ac6ca986, type: 3}
+  - {fileID: 21300000, guid: 81b54843b5caea04d8bf3bef39d83093, type: 3}
+  - {fileID: 21300000, guid: 7e76d5056ac39774e9c05e11907deca7, type: 3}
+  - {fileID: 21300000, guid: 8094dcd58b543494a9e5fc65d5151db1, type: 3}
+  - {fileID: 21300000, guid: 45a05ae5a22653f40aed0a749fb6591d, type: 3}
+  - {fileID: 21300000, guid: 01a44b465cee1f443855ad06b4a51d67, type: 3}
+  - {fileID: 21300000, guid: 3c684586d868ed144a46b2535d6ab7c7, type: 3}
+  - {fileID: 21300000, guid: 4e11730786590624a931e0568801a00a, type: 3}
+  - {fileID: 21300000, guid: 7e1a2e48ee23dd547b95d479b88f43a5, type: 3}
+  - {fileID: 21300000, guid: 918ed998139c1704b90fcb4313590efb, type: 3}
+  - {fileID: 21300000, guid: 36111da8d09c57248bf00da0895cfe3d, type: 3}
+  - {fileID: 21300000, guid: fece28b9601637c4ab4972bc065c4237, type: 3}
+  - {fileID: 21300000, guid: 178dcbc930303fc47be40406c52259a5, type: 3}
+  - {fileID: 21300000, guid: 0b37cdc9651f52647b0cb693dc82937d, type: 3}
+  - {fileID: 21300000, guid: eaaa82f91851c3a4189a9ba9b4b6d7a7, type: 3}
+  - {fileID: 21300000, guid: 22e6280a6e8ef2247bf44d3bfa91f377, type: 3}
+  - {fileID: 21300000, guid: 7ba21c3b98b376a4e8660f831e8dcd32, type: 3}
+  - {fileID: 21300000, guid: 6a4e31bb9e7f58043bc9d47940eecb05, type: 3}
+  - {fileID: 21300000, guid: 80582fcb8c4e57944bcb7f2df808ea8c, type: 3}
+  - {fileID: 21300000, guid: a8d4a2ee67eb2bb4695f67f07eeef4c6, type: 3}
+  - {fileID: 21300000, guid: 19dfd2febaa069c40aefd81930d98c83, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Button12
+  - Button21
+  - Button19
+  - Button7
+  - Button14
+  - Button5
+  - Button10
+  - Button15
+  - Button25
+  - Button18
+  - Button4
+  - Button1
+  - Button26
+  - Button23
+  - Button3
+  - Button8
+  - Button13
+  - Button16
+  - Button17
+  - Button20
+  - Button9
+  - Button2
+  - Button24
+  - Button6
+  - Button22
+  - Button11
+  m_Tag: Button
+  m_IsVariant: 0

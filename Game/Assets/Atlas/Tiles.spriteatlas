@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 28ec36b82d10efc4fb53443d40427431, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5d0b3740fc0e9494b88417320d70b76a, type: 3}
+  - {fileID: 21300000, guid: bb744c11e73255f43870e944397dcef9, type: 3}
+  - {fileID: 21300000, guid: 2ed8dc61f77bac148a33a3607f81f25c, type: 3}
+  - {fileID: 21300000, guid: f0c4db335a9f11346bc5fe194838fee9, type: 3}
+  - {fileID: 21300000, guid: e53a63c3a24aa8349abc00f47a495b22, type: 3}
+  - {fileID: 21300000, guid: 2650197430019d042876877639f913b0, type: 3}
+  - {fileID: 21300000, guid: 9aa9481697c979a45b617f1fe41f32e5, type: 3}
+  - {fileID: 21300000, guid: 677a98563b337d54e8ac41f4b745a206, type: 3}
+  - {fileID: 21300000, guid: 78a6cb96873baf742aa8b64fa7acfcb8, type: 3}
+  - {fileID: 21300000, guid: 176c8ba6edfea8645a33cf465ca0b58d, type: 3}
+  - {fileID: 21300000, guid: d2ab24e6401061340b3c5d233eb3b2a4, type: 3}
+  - {fileID: 21300000, guid: 833448070fcf8e14c8c537b0e14fdc2f, type: 3}
+  - {fileID: 21300000, guid: a30fc037ec9d6f749956c558f786c24a, type: 3}
+  - {fileID: 21300000, guid: 1f041147d19fec2488fcc7e4b9f6a96a, type: 3}
+  - {fileID: 21300000, guid: 42b1ae57c8ba26f428fc510aefadce25, type: 3}
+  - {fileID: 21300000, guid: c065caa7268ad42448adb50ebd84844a, type: 3}
+  - {fileID: 21300000, guid: bc430ec7f841c3748a5789f15f4a0cb3, type: 3}
+  - {fileID: 21300000, guid: 5ca33148db885604a945151d420f80bc, type: 3}
+  - {fileID: 21300000, guid: 3028f248f65c9c14aa760708eb132abe, type: 3}
+  - {fileID: 21300000, guid: 11001b981889dfe48a31efa780eda936, type: 3}
+  - {fileID: 21300000, guid: 3cd1d049742b1a54b8ad7be15033d771, type: 3}
+  - {fileID: 21300000, guid: 7ee18a6921ccfb040a8a8c73ab892004, type: 3}
+  - {fileID: 21300000, guid: a3a64b99c1eea4c458668bf94d74120f, type: 3}
+  - {fileID: 21300000, guid: a0ed33d906c59e8449410ddf045460d6, type: 3}
+  - {fileID: 21300000, guid: e775623ab79471b4da637636e53e063a, type: 3}
+  - {fileID: 21300000, guid: 4dab5ebab693d6346a22173c37a32ca6, type: 3}
+  - {fileID: 21300000, guid: 38874b2b1c9866047b45c9c4c2a131de, type: 3}
+  - {fileID: 21300000, guid: c1e46cbbd59705949a5572bce5cf3eb0, type: 3}
+  - {fileID: 21300000, guid: 7cbd6e6c5f032064383229ef4c2c78dc, type: 3}
+  - {fileID: 21300000, guid: e3f1ca8c4c5c5794480d622005afa8c2, type: 3}
+  - {fileID: 21300000, guid: 0d98cdbcd314f084ba9e7640a667e94b, type: 3}
+  - {fileID: 21300000, guid: 83f1db0dd475c9242b96655dab34c90f, type: 3}
+  - {fileID: 21300000, guid: 63e3e68d28f0f554e84613d81af9b4aa, type: 3}
+  - {fileID: 21300000, guid: cd91bbae29f6ebf40b1222a9c1c8b6ff, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tile1
+  - Tile3
+  - Mine1
+  - Mine1
+  - Tower1
+  - Mine2
+  - Healer1
+  - Mine2
+  - Tile2
+  - Tile3
+  - Tower1
+  - Tile3
+  - Tile2
+  - Mine1
+  - Healer1
+  - Healer1
+  - Tile2
+  - Tower1
+  - Tile1
+  - VisualUnit1
+  - Mine1
+  - Tile2
+  - Tile1
+  - Mine2
+  - Water1
+  - Bridge1
+  - Tile3
+  - Mine2
+  - Healer1
+  - Tower1
+  - Water1
+  - Tile1
+  - Water1
+  - Water1
+  m_Tag: Tiles
+  m_IsVariant: 0

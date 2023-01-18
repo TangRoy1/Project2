@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<GameData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <posTower>
+    <x>0</x>
+    <y>0</y>
+  </posTower>
+  <crystals>1000</crystals>
+  <money>1000</money>
+  <stone>1000</stone>
+</GameData>

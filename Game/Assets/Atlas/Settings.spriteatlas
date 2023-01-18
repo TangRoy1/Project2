@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Settings
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 021dc48ccf9ff60448228fabbb41c1b8, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 17f720015848d3949a65aea6ab645d20, type: 3}
+  - {fileID: 21300000, guid: b5c2dc822a228d3488da174958de94f7, type: 3}
+  - {fileID: 21300000, guid: a58b15f3f5dee8342a3290ad432fa2a0, type: 3}
+  - {fileID: 21300000, guid: dccaec54c1fab2740882076ea74a1014, type: 3}
+  - {fileID: 21300000, guid: 59de45a4ceae0ed49b2237d421bc0c9a, type: 3}
+  - {fileID: 21300000, guid: c9ad0e05f4e118e45bc433e6ddff494c, type: 3}
+  - {fileID: 21300000, guid: ee043d558b197f44c81d78cf01cc3e60, type: 3}
+  - {fileID: 21300000, guid: ddba0375e35f96b41b934071ecec80be, type: 3}
+  - {fileID: 21300000, guid: a7148e168a220da4b8c79a4eec1a1af4, type: 3}
+  - {fileID: 21300000, guid: d5118698f45805b40a051ce139b531e9, type: 3}
+  - {fileID: 21300000, guid: eb5d6eb90e60cbb4487ef1e2eae58acc, type: 3}
+  - {fileID: 21300000, guid: 9c1b855ad7a5add45800c5070097f21c, type: 3}
+  - {fileID: 21300000, guid: 138e445b77c79f845ab740aba6ad2341, type: 3}
+  - {fileID: 21300000, guid: 967b627b13a7c5e4593d698f8fe494ab, type: 3}
+  - {fileID: 21300000, guid: 2a1f10ab4118cd84ba0bf78bb5c0d4a8, type: 3}
+  - {fileID: 21300000, guid: 4efdef8cd0e9ab64d99b95936e43e2b4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Settings14
+  - Settings11
+  - Settings12
+  - Settings7
+  - Settings15
+  - Settings5
+  - Settings9
+  - Settings13
+  - Settings16
+  - Settings1
+  - Settings2
+  - Settings6
+  - Settings4
+  - Settings10
+  - Settings8
+  - Settings3
+  m_Tag: Settings
+  m_IsVariant: 0

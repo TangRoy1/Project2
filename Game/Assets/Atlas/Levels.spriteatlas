@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Levels
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cebf599ab3a34f14e918edd9020c4f31, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 50513a70120450941afb61025d17713f, type: 3}
+  - {fileID: 21300000, guid: e0ff3f5182527b443b6daaa7a73684e0, type: 3}
+  - {fileID: 21300000, guid: ae22b3e308fa2df4e8960a112a6f805b, type: 3}
+  - {fileID: 21300000, guid: 11135b44f85723d4382f683439fa43d7, type: 3}
+  - {fileID: 21300000, guid: 6d270f64056d1af4f9e5ca10f99ddf8e, type: 3}
+  - {fileID: 21300000, guid: 2960cd952e233ad4f8ef6d2fac86c1c7, type: 3}
+  - {fileID: 21300000, guid: af64262882ef34446a1ba2ab760c7a17, type: 3}
+  - {fileID: 21300000, guid: 09d36389e2b108d459af2046fca5c095, type: 3}
+  - {fileID: 21300000, guid: 650faa1c8b08cdd4e894a754e0d6fc1f, type: 3}
+  - {fileID: 21300000, guid: 772bab7dc946f5f49b9fd6d16783f845, type: 3}
+  - {fileID: 21300000, guid: dcea9f9d7bdeca5418ada64a76e2c4f2, type: 3}
+  - {fileID: 21300000, guid: 057e2e6ea23ae4e43aaff04a157e57e6, type: 3}
+  - {fileID: 21300000, guid: 6516110ff1d9000458f325b93be040f8, type: 3}
+  - {fileID: 21300000, guid: 143eab2f00db6f24f8411cba1f5bb587, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Levels12
+  - Levels4
+  - Levels10
+  - Levels7
+  - Levels14
+  - Levels8
+  - Levels11
+  - Levels6
+  - Levels9
+  - Levels3
+  - Levels13
+  - Levels5
+  - Levels2
+  - Levels1
+  m_Tag: Levels
+  m_IsVariant: 0

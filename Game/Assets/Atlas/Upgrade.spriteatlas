@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Upgrade
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8ac0a82e252e69d4d9fa69100a5c006e, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 36172632560a35f4ba367cb27d030f06, type: 3}
+  - {fileID: 21300000, guid: f35123f2313234645a7e2a4c8cee8ef2, type: 3}
+  - {fileID: 21300000, guid: fe517ba39b45cca46a1205f1b07d8bbc, type: 3}
+  - {fileID: 21300000, guid: dc1a05b31196a304c89c11a1df1ee1d4, type: 3}
+  - {fileID: 21300000, guid: 4710e1149c86e6b42a6cc18e44c35a01, type: 3}
+  - {fileID: 21300000, guid: 28baac650e8f91240b2add37b7c53f16, type: 3}
+  - {fileID: 21300000, guid: 491aead5e1fca524398d6df953a931d0, type: 3}
+  - {fileID: 21300000, guid: b01432461f52f734e93ca8c7d52b9429, type: 3}
+  - {fileID: 21300000, guid: 18679417371a67c4aa74d28b0bcabe6d, type: 3}
+  - {fileID: 21300000, guid: 3b0cd938f13611849b3122bc1bf31b9f, type: 3}
+  - {fileID: 21300000, guid: ebb66ed9cd4055646be26c262e2eae30, type: 3}
+  - {fileID: 21300000, guid: d109df6b9f24cee489089a046d0a9d6b, type: 3}
+  - {fileID: 21300000, guid: f494168b2f235e04bb575dba13cfda85, type: 3}
+  - {fileID: 21300000, guid: b91b838d91f5bd64fb7367118a58198c, type: 3}
+  - {fileID: 21300000, guid: eb3480eda015e2e49b4875b5d31c9c43, type: 3}
+  - {fileID: 21300000, guid: 8046dc5e62565a24791108f566436f69, type: 3}
+  - {fileID: 21300000, guid: 8cbf3e7ef6f5b6a44bd4e24e4faf88d9, type: 3}
+  - {fileID: 21300000, guid: 8eb81e1f355296f4284092c5921e0c34, type: 3}
+  - {fileID: 21300000, guid: c87c863fd19f10542a970f85e3319b0e, type: 3}
+  - {fileID: 21300000, guid: fad9a64f653ede14a94ee146530dae34, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Upgrade12
+  - Upgrade7
+  - Upgrade16
+  - Upgrade18
+  - Upgrade8
+  - Upgrade20
+  - Upgrade14
+  - Upgrade1
+  - Upgrade13
+  - Upgrade15
+  - Upgrade9
+  - Upgrade10
+  - Upgrade17
+  - Upgrade3
+  - Upgrade4
+  - Upgrade11
+  - Upgrade5
+  - Upgrade6
+  - Upgrade19
+  - Upgrade2
+  m_Tag: Upgrade
+  m_IsVariant: 0

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Achivement
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c51901459e1022d4d98b2a15e80842fd, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a3bd4f708697acc49b96d7327221ef6c, type: 3}
+  - {fileID: 21300000, guid: 7a31e4e11d642d541a0b10b7d007f616, type: 3}
+  - {fileID: 21300000, guid: e8d4c9434d8ace6488ef8bb073a5cfc7, type: 3}
+  - {fileID: 21300000, guid: 87a06ee3cd7024c4bb52b35b1131576c, type: 3}
+  - {fileID: 21300000, guid: 1f564db5adfc5f24ba181c6041761a20, type: 3}
+  - {fileID: 21300000, guid: 885a19f63f88ad64f92471142e3be5a5, type: 3}
+  - {fileID: 21300000, guid: 356b92079b632e34c867079ab0dd78e7, type: 3}
+  - {fileID: 21300000, guid: f3f54a177010c574c9f6f1ae7c7d03f4, type: 3}
+  - {fileID: 21300000, guid: ce67f8d7f2c3acb47843223d515ccafc, type: 3}
+  - {fileID: 21300000, guid: 2b09d8e84b8ac5f4b8839c7878fcebf2, type: 3}
+  - {fileID: 21300000, guid: c252e81bfc05a32498603b28f8903ff1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Achivement1
+  - Achivement4
+  - Achivement11
+  - Achivement8
+  - Achivement6
+  - Achivement9
+  - Achivement7
+  - Achivement3
+  - Achivement5
+  - Achivement2
+  - Achivement10
+  m_Tag: Achivement
+  m_IsVariant: 0

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Warriors
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 605b302940351084b8436ce6baa08f95, type: 3}
+    - {fileID: 2800000, guid: bd7943b36662fd44baea3e75645cf749, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 00caef308c6c7114eb3ac9d4d6d09d55, type: 3}
+  - {fileID: 21300000, guid: f817bf40a587f754b8c3a522e31a6a94, type: 3}
+  - {fileID: 21300000, guid: b0768ce080d897246bdddcfd41452e92, type: 3}
+  - {fileID: 21300000, guid: b117e7b2272cb13449f58a3a713e5f45, type: 3}
+  - {fileID: 21300000, guid: a532f7c2df4763e4c86fc48419ae1c30, type: 3}
+  - {fileID: 21300000, guid: 3bdc1633a3002e84ab5401f074de9159, type: 3}
+  - {fileID: 21300000, guid: 83348733d5b8474419718866cb2c66b2, type: 3}
+  - {fileID: 21300000, guid: f66b4793b650b0c40a3e7b33ce689050, type: 3}
+  - {fileID: 21300000, guid: bd7943b36662fd44baea3e75645cf749, type: 3}
+  - {fileID: 21300000, guid: 1a8d10849b8ad15438d4fb1cf40e315a, type: 3}
+  - {fileID: 21300000, guid: 190cb8e5f968934429304a3feec585a0, type: 3}
+  - {fileID: 21300000, guid: 685a6f26922e2fe4c9fc25e670e174c9, type: 3}
+  - {fileID: 21300000, guid: d97991a61791b464db96982fedd9d86d, type: 3}
+  - {fileID: 21300000, guid: 08ffdaa6035bca242ae3a97bdcef6db9, type: 3}
+  - {fileID: 21300000, guid: 5df82a8844f27ac408221bcb98b0fdbb, type: 3}
+  - {fileID: 21300000, guid: 8728c0e8af43af040a3989af493d99e0, type: 3}
+  - {fileID: 21300000, guid: 5a1ac3f8afea19843a94dad9f7a6ff1b, type: 3}
+  - {fileID: 21300000, guid: 720281d9702991841b46fda0de3209fe, type: 3}
+  - {fileID: 21300000, guid: 6ad7297ab40d666478a6ad62c273d8ca, type: 3}
+  - {fileID: 21300000, guid: 77b6289bfc0327d4ead94e60157324d2, type: 3}
+  - {fileID: 21300000, guid: 5c00616c039f5cb4b9f632e534668de6, type: 3}
+  - {fileID: 21300000, guid: 68cf565df12ad9643840939e0e8bfdbe, type: 3}
+  - {fileID: 21300000, guid: d7f65f7d7f3c429429f986f5d7bafc67, type: 3}
+  - {fileID: 21300000, guid: c40884ad619fb5c43b715326bb8129fe, type: 3}
+  - {fileID: 21300000, guid: 2071f73eb97c37d42a3ef385ef051a67, type: 3}
+  - {fileID: 21300000, guid: 2408c8ee8c9869847a4ab1a6dee170f8, type: 3}
+  - {fileID: 21300000, guid: 500b8a5fd6f2e09499b943228df8d450, type: 3}
+  - {fileID: 21300000, guid: ef383e6fd09c80c488002f3ccb0b6070, type: 3}
+  - {fileID: 21300000, guid: 891048cfad46f7b4da245128254f2444, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Forest2
+  - Desert5
+  - Desert4
+  - Desert6
+  - Desert7
+  - North7
+  - Forest4
+  - Hell5
+  - Rip
+  - Hell3
+  - Forest5
+  - Hell7
+  - Desert3
+  - Hell6
+  - Hell4
+  - Forest1
+  - North3
+  - Forest6
+  - North6
+  - North2
+  - Forest7
+  - North1
+  - North4
+  - Forest3
+  - Hell2
+  - Desert1
+  - North5
+  - Hell1
+  - Desert2
+  m_Tag: Warriors
+  m_IsVariant: 0

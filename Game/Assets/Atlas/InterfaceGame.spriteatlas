@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InterfaceGame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 41cba53b36378474f9d82e49d54a2608, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6dd01500b9e069c43b06e24448076b63, type: 3}
+  - {fileID: 21300000, guid: 82fa4b30f39329843bb01d688624903c, type: 3}
+  - {fileID: 21300000, guid: 15032490a6d50e0428e13861b80a27a8, type: 3}
+  - {fileID: 21300000, guid: 217baae1739a0f2478548126de1cfe00, type: 3}
+  - {fileID: 21300000, guid: 2abe81421dafb7b4b9f4e18a9ddadd33, type: 3}
+  - {fileID: 21300000, guid: 43fc8394d44f1df4780d02429f039fe6, type: 3}
+  - {fileID: 21300000, guid: 395f60a407da8e74d9981daedffd19e7, type: 3}
+  - {fileID: 21300000, guid: 61c995b44203343428560e10d042bc39, type: 3}
+  - {fileID: 21300000, guid: 45af8425e69cb6d4b9da3b5629adb800, type: 3}
+  - {fileID: 21300000, guid: 7eefdb85fe7ab9c4abcc55a5126c01c3, type: 3}
+  - {fileID: 21300000, guid: aec105367f73ab046a19da1f20dcf729, type: 3}
+  - {fileID: 21300000, guid: 2cc1f65639cc7be4e9c72f29a731fc5f, type: 3}
+  - {fileID: 21300000, guid: 1c00f4c6a7a01c840afbbcee5f856a2e, type: 3}
+  - {fileID: 21300000, guid: f973960a8d875fe4aaea4d8326f2627a, type: 3}
+  - {fileID: 21300000, guid: 8c39da0a0da25ed42a44f123332cdd09, type: 3}
+  - {fileID: 21300000, guid: d4ae624a7a913c44dbc8d42d05e6dfc2, type: 3}
+  - {fileID: 21300000, guid: 49c4637ad5c00454e90f3c74193a0849, type: 3}
+  - {fileID: 21300000, guid: 8993b5ba2c1975a4bae1e565d3b0c9c8, type: 3}
+  - {fileID: 21300000, guid: 9451f41beddd60447b5d35cb20cf4181, type: 3}
+  - {fileID: 21300000, guid: 750ec04b78809d449aac710be2e70c35, type: 3}
+  - {fileID: 21300000, guid: c2c76a8bcb767ba4ab7cfa5b7271edc0, type: 3}
+  - {fileID: 21300000, guid: 00bc079baf504644582ce7c6b5e7af32, type: 3}
+  - {fileID: 21300000, guid: d273afbbe4d0cc740933bc71b16f8eaa, type: 3}
+  - {fileID: 21300000, guid: 0fa1bacbcd5719548aed50af23d6229f, type: 3}
+  - {fileID: 21300000, guid: 5650dc6db969fa94caab9de0d5063572, type: 3}
+  - {fileID: 21300000, guid: ae2faf6da7e7ccb41b17095fb76afd2b, type: 3}
+  - {fileID: 21300000, guid: d715827d87b6e5b4ba179b1690fd74bd, type: 3}
+  - {fileID: 21300000, guid: 7beb97ce2d4188d468c10408ff10e65b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - InterfaceGame26
+  - InterfaceGame10
+  - InterfaceGame16
+  - InterfaceGame23
+  - InterfaceGame11
+  - InterfaceGame13
+  - InterfaceGame9
+  - InterfaceGame7
+  - InterfaceGame2
+  - InterfaceGame6
+  - InterfaceGame4
+  - InterfaceGame3
+  - InterfaceGame18
+  - InterfaceGame17
+  - InterfaceGame27
+  - InterfaceGame8
+  - InterfaceGame14
+  - InterfaceGame22
+  - InterfaceGame25
+  - InterfaceGame28
+  - InterfaceGame12
+  - InterfaceGame24
+  - InterfaceGame21
+  - InterfaceGame5
+  - InterfaceGame19
+  - InterfaceGame15
+  - InterfaceGame20
+  - InterfaceGame1
+  m_Tag: InterfaceGame
+  m_IsVariant: 0

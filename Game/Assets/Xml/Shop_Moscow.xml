@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfProductData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProductData>
+    <prize>50</prize>
+    <price>0.99</price>
+  </ProductData>
+  <ProductData>
+    <prize>200</prize>
+    <price>1.99</price>
+  </ProductData>
+  <ProductData>
+    <prize>500</prize>
+    <price>2.50</price>
+  </ProductData>
+</ArrayOfProductData>

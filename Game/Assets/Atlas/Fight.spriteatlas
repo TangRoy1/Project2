@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fight
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fa1a8451723cc504b8c3dae4e36f8b2b, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 10b484004d8131543a18e0418ad07f42, type: 3}
+  - {fileID: 21300000, guid: c81cb0803ae75094397d932e04819b76, type: 3}
+  - {fileID: 21300000, guid: 4025f021399ece74780634e051a075de, type: 3}
+  - {fileID: 21300000, guid: 92a2cb31211572644b81e111de6ea22c, type: 3}
+  - {fileID: 21300000, guid: dfb91191d8bd88548b4915e24ff314b8, type: 3}
+  - {fileID: 21300000, guid: dfacb4628e4a5954fa44c6a156ae2c39, type: 3}
+  - {fileID: 21300000, guid: eb6aeb62f128e1248a429840518affef, type: 3}
+  - {fileID: 21300000, guid: bbc7d584aa3e1be4d82340c5294a58b6, type: 3}
+  - {fileID: 21300000, guid: 6ea0b4d42f8df314ebf020330f5c2eb8, type: 3}
+  - {fileID: 21300000, guid: 90a222050f050f74a8bec0a3ce225d85, type: 3}
+  - {fileID: 21300000, guid: f0e48c45027eca94ebc3f831e35db692, type: 3}
+  - {fileID: 21300000, guid: 1a984e569e5472044a4568f5b5898dac, type: 3}
+  - {fileID: 21300000, guid: 8d684108cc0b96a48b801a61d7ef3be5, type: 3}
+  - {fileID: 21300000, guid: 230faaffec5d0494e8240ec09b99b8e5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Fight10
+  - Fight14
+  - Fight1
+  - Fight8
+  - Fight9
+  - Fight5
+  - Fight2
+  - Fight11
+  - Fight3
+  - Fight7
+  - Fight13
+  - Fight4
+  - Fight12
+  - Fight6
+  m_Tag: Fight
+  m_IsVariant: 0

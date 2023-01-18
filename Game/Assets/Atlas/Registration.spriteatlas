@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Registration
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0c76c1ad2dca72547b0bbb5d73eba10c, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ff744571b235b77489bccb28e3b78b0a, type: 3}
+  - {fileID: 21300000, guid: e59fad12d941e8d449d40be0196ac93e, type: 3}
+  - {fileID: 21300000, guid: f36008d4e3c8a4843b7696a3a0189671, type: 3}
+  - {fileID: 21300000, guid: 6c920d0711f57c34e9599f19e4289281, type: 3}
+  - {fileID: 21300000, guid: 9b1b7a67d51337845b96922d1cf03b63, type: 3}
+  - {fileID: 21300000, guid: 75babfe7c1e995846a2c0341bb26fc0a, type: 3}
+  - {fileID: 21300000, guid: 9690fd19c9811e54a84862eb4db74398, type: 3}
+  - {fileID: 21300000, guid: e664d749d0cce6c40ac1210f427db834, type: 3}
+  - {fileID: 21300000, guid: 732c1e4adb8745c488cf664022dff3b0, type: 3}
+  - {fileID: 21300000, guid: a174376a9ba5c3b47a50ddd77fef4755, type: 3}
+  - {fileID: 21300000, guid: 57f02e2dc55c1274e85785137cf460f8, type: 3}
+  - {fileID: 21300000, guid: 64f9093e086e1f14f9d928a27a09fc58, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Registration4
+  - Registration7
+  - Registration6
+  - Registration3
+  - Registration5
+  - Registration2
+  - Registration9
+  - Registration12
+  - Registration8
+  - Registration10
+  - Registration1
+  - Registration11
+  m_Tag: Registration
+  m_IsVariant: 0
